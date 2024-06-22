@@ -1,0 +1,119 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.nav{
+    height: 50px;
+    background-color: black;
+    display: flex;
+    align-items: center;
+   
+}
+
+.listsection{
+    display: flex;
+    justify-content: space-between;
+    width: 400px;
+    margin-left: 65px;
+}
+li{
+    color: rgb(188, 185, 185);
+    list-style: none;
+    font-size: 20px;
+}
+.searchsection{
+    display: flex;
+    width: 20%;
+    justify-content : space-between;
+    align-items: center;
+    margin-left:85px;
+}
+.logo{
+margin-left:245px;
+}
+h3{
+    font-weight: lighter;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+font-size: 18px;
+}
+.container1{
+    background-image: url('https://m.media-amazon.com/images/G/31/AmazonVideo/2019/MLP.jpg');
+    height: 70vh;
+
+}
+.textArea{
+    height: 230px;
+    width: 45%;
+    padding-left: 42px;
+padding-top: 100px;
+
+
+}
+.headingfirst{
+    color: white;
+    font-weight: lighter;
+    font-size: 47px;
+
+}
+.parafirst{
+    color: white;
+    font-size: 23px;
+font-weight: 100;
+margin-top: 13px;
+line-height: 33px;
+    }
+    .btn1{
+    height: 48px;
+    width: 280px;
+    justify-content: center;
+    align-items: center;
+    background-color: #0F79AF;
+    color: white;
+    font-size: 16.5px;
+    border: none;
+    border-radius: 3px;
+    margin-top: 5px;
+    }
+    .container2{
+        background-image: url('https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1605633007-Mlp_Hero_Us_2020_With_Tt_Dsk@1.5x_Mandos2_v2.jpg?crop=1xw:1xh;center,top&resize=980:*');
+        height: 80vh;  
+}
+
+.textArea1{
+    height: 230px;
+    width: 70%;
+    padding-left: 60px;
+padding-top: 60px;
+} 
+
+.headingfirst1{
+    color: white;
+    font-weight: lighter;
+    font-size: 40px;
+    height: 230px;
+    padding-right: 30%;
+    padding-top: 120px;
+    line-height: 350%;
+    width: 90%;
+}
+.parafirst1{
+    color: white;
+    font-size: 23px;
+font-weight: 100;
+line-height: 70px;
+width: 60%;
+    }
+    .btn2{
+    height: 48px;
+    width: 280px;
+    justify-content: center;
+    align-items: center;
+    background-color: #066899;
+    color: white;
+    font-size: 16.5px;
+    border: none;
+    border-radius: 3px;
+    margin-top: 5px;
+    }
+        
